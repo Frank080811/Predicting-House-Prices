@@ -1,4 +1,6 @@
-!![BentJun Logo](blogo.jpg)
+<p align="center">
+  <img src="blogo.jpg" alt="BentJun Logo" style="width:150px; height:auto;" />
+</p>
 
 # 🏠 King County House Price Prediction
 
