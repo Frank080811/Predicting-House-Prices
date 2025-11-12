@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="blogo.jpg" alt="BentJun Logo" style="width:150px; height:auto;" />
 </p>
 
